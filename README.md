@@ -5,3 +5,23 @@ This repository is a collection of hands-on exercises and labs I used to learn a
 **Let's Grow Together**
 
 I created this Repository only for _learning purposes_ so I have not taken a **license** for it...
+
+## Before dive into this lab, let's define a basic scenario for our example.
+
+Scenario:
+
+    We have a small development team working on a project.
+    We're using a simple Agile methodology (e.g., Scrum) for planning and execution.
+    The .xlsx file will contain a basic product backlog.
+    The .py file will calculate the total story points for the backlog.
+
+Creating the .xlsx File (Product Backlog)
+
+File Name: product_backlog.xlsx
+
+This file will contain a simple table with columns for:
+
+    Story ID
+    Story Description
+    Story Points
+    Priority

@@ -18,3 +18,4 @@ if __name__ == "__main__":
   file_path = 'product_backlog.xlsx'
   total_points = calculate_total_story_points(file_path)
   print("Total story points:", total_points)
+  print("More Upgradation is coming soon...")

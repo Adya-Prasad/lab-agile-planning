@@ -19,3 +19,5 @@ if __name__ == "__main__":
   total_points = calculate_total_story_points(file_path)
   print("Total story points:", total_points)
   print("More Upgradation is coming soon...")
+
+print("Everything is alright!")
